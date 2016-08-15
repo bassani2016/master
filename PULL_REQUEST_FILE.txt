@@ -1,0 +1,37 @@
+whitestack?
+
+Day templates page
+- 
+
+
+
+
+
+Lords / Commons calendar page:
+- Create document outside document - DONE
+- Edit document outside document - DONE
+- Delete document outside document - DONE
+- Publish document outside document - DONE
+- Unpublish document outside document - DONE
+
+- Create document inside document - DONE
+- Edit document inside document
+- Delete document inside document
+- Publish document inside document
+- Unpublish document inside document
+
+- Move document out to inside folder
+- Move document in to outside folder
+
+- Create folder
+- Edit folder
+- Delete folder
+- Publish folder and docs inside folder
+- Unpublish folder and docs inside folder
+- Publish folder only
+- Unpublish folder only
+- Publish all
+- Unpublish all
+
+
+
